@@ -17,7 +17,7 @@ Ensure you have the following installed:
 ## Installation
 1. Clone the repository:
    ```sh
-   git clone https://github.com/your-repo/your-project.git
+   git clone https://github.com/ChanReMin/Simple-Laravel-Social-Media.git
    cd your-project
    ```
 2. Install dependencies:
